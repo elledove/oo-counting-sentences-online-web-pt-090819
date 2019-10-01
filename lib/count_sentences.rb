@@ -21,3 +21,4 @@ self.end_with?("!")
 #binding.pry
   end
 end
+#Sidenote: I figured the last bit(count_sentences) out for myself! It was tuff but I did it. so proud of me! The others were straight-forward
