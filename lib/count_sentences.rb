@@ -16,7 +16,7 @@ self.end_with?("!")
   end
 
   def count_sentences
-    self.split(/[.?!]/).count.delete_if{|n| n.empty?}
+    self.split(/[.?!]/).count
 #self.split(/\W+/).count
 #binding.pry
   end
